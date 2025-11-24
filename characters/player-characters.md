@@ -15,8 +15,8 @@
 Laura was a dedicated police woman and former Detective Seargent, who got results and prioritised public safety, however she was frequently passed over for promotion by her Male colleagues.
 She began to take out her frustrations through art, specifically painting.
 She was invited to a small gallery, under the stage name Grace du Nuit. 
-This lead to a powerful Toreador named Christina Van de Meer taking interest in Laura's emotional expression through her art.
-Laura made money from the exhibition and decided to leave the police force, and shortly after was sired by Christina.
+This lead to a powerful Toreador named Christine Van de Meer taking interest in Laura's emotional expression through her art.
+Laura made money from the exhibition and decided to leave the police force, and shortly after was sired by Christine.
 
 ### Touchstones
 
