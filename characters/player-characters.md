@@ -28,8 +28,8 @@ Laura made money from the exhibition and decided to leave the police force, and 
 
 ### Attributes and Skills
 
-| &nbsp;      | &nbsp;      | **Attributes** | &nbsp;      | &nbsp;      | &nbsp;      |
-|-------------|-------------|:--------------:|:------------:|:------------:|:------------:|
+| &nbsp;      | &nbsp;      | **Attributes** | &nbsp;      | &nbsp;       | &nbsp;      |
+|:------------|:------------|:--------------:|:-----------:|-------------:|------------:|
 | Physical    | &nbsp;      | Social         | &nbsp;      | Mental       | &nbsp;      |
 | Strength    | ●○○○○       | Charisma       | ●○○○○       | Intelligence | ●○○○○       |
 | Dexterity   | ●○○○○       | Manipulation   | ●○○○○       | Wits         | ●○○○○       |
@@ -65,8 +65,8 @@ Description
 
 ### Attributes and Skills
 
-| &nbsp;      | &nbsp;      | **Attributes** | &nbsp;      | &nbsp;      | &nbsp;      |
-|-------------|-------------|:--------------:|:------------:|:------------:|:------------:|
+| &nbsp;      | &nbsp;      | **Attributes** | &nbsp;      | &nbsp;       | &nbsp;      |
+|:------------|:------------|:--------------:|:-----------:|-------------:|------------:|
 | Physical    | &nbsp;      | Social         | &nbsp;      | Mental       | &nbsp;      |
 | Strength    | ●○○○○       | Charisma       | ●○○○○       | Intelligence | ●○○○○       |
 | Dexterity   | ●○○○○       | Manipulation   | ●○○○○       | Wits         | ●○○○○       |
@@ -101,8 +101,8 @@ Occult Shapeshifter
 
 ### Attributes and Skills
 
-| &nbsp;      | &nbsp;      | **Attributes** | &nbsp;      | &nbsp;      | &nbsp;      |
-|-------------|-------------|:--------------:|:------------:|:------------:|:------------:|
+| &nbsp;      | &nbsp;      | **Attributes** | &nbsp;      | &nbsp;       | &nbsp;      |
+|:------------|:------------|:--------------:|:-----------:|-------------:|------------:|
 | Physical    | &nbsp;      | Social         | &nbsp;      | Mental       | &nbsp;      |
 | Strength    | ●○○○○       | Charisma       | ●○○○○       | Intelligence | ●○○○○       |
 | Dexterity   | ●○○○○       | Manipulation   | ●○○○○       | Wits         | ●○○○○       |
@@ -137,8 +137,8 @@ Description
 
 ### Attributes and Skills
 
-| &nbsp;      | &nbsp;      | **Attributes** | &nbsp;      | &nbsp;      | &nbsp;      |
-|-------------|-------------|:--------------:|:------------:|:------------:|:------------:|
+| &nbsp;      | &nbsp;      | **Attributes** | &nbsp;      | &nbsp;       | &nbsp;      |
+|:------------|:------------|:--------------:|:-----------:|-------------:|------------:|
 | Physical    | &nbsp;      | Social         | &nbsp;      | Mental       | &nbsp;      |
 | Strength    | ●○○○○       | Charisma       | ●○○○○       | Intelligence | ●○○○○       |
 | Dexterity   | ●○○○○       | Manipulation   | ●○○○○       | Wits         | ●○○○○       |
@@ -173,8 +173,8 @@ Description
 
 ### Attributes and Skills
 
-| &nbsp;      | &nbsp;      | **Attributes** | &nbsp;      | &nbsp;      | &nbsp;      |
-|-------------|-------------|:--------------:|:------------:|:------------:|:------------:|
+| &nbsp;      | &nbsp;      | **Attributes** | &nbsp;      | &nbsp;       | &nbsp;      |
+|:------------|:------------|:--------------:|:-----------:|-------------:|------------:|
 | Physical    | &nbsp;      | Social         | &nbsp;      | Mental       | &nbsp;      |
 | Strength    | ●○○○○       | Charisma       | ●○○○○       | Intelligence | ●○○○○       |
 | Dexterity   | ●○○○○       | Manipulation   | ●○○○○       | Wits         | ●○○○○       |
@@ -209,8 +209,8 @@ Description
 
 ### Attributes and Skills
 
-| &nbsp;      | &nbsp;      | **Attributes** | &nbsp;      | &nbsp;      | &nbsp;      |
-|-------------|-------------|:--------------:|:------------:|:------------:|:------------:|
+| &nbsp;      | &nbsp;      | **Attributes** | &nbsp;      | &nbsp;       | &nbsp;      |
+|:------------|:------------|:--------------:|:-----------:|-------------:|------------:|
 | Physical    | &nbsp;      | Social         | &nbsp;      | Mental       | &nbsp;      |
 | Strength    | ●○○○○       | Charisma       | ●○○○○       | Intelligence | ●○○○○       |
 | Dexterity   | ●○○○○       | Manipulation   | ●○○○○       | Wits         | ●○○○○       |
