@@ -20,21 +20,30 @@ Laura made money from the exhibition and decided to leave the police force, and 
 
 ### Touchstones
 
+### Advantages and Flaws
+
 ●○○○○ Fame (Art)
 ●○○○○ Contact (Art World)
 ●○○○○ Disliked (Vain)
 
-### Advantages and Flaws
+### Attributes and Skills
 
-
-
-### Attributes
-
-**DEXTERITY**, Wits, Resolve, Stamina
-
-### Skills
-
-**INVESTIGATION** (CSI), Athletics, Melee, Craft (Painter)
+|&nbsp;|&nbsp;|**Attributes**|&nbsp;|&nbsp;|&nbsp;|
+|:-|:-|:-:|:-:|-:|-:|
+|Physical|&nbsp;|Social|&nbsp;|Mental|&nbsp;|
+| Strength | ●○○○○ | Charisma | ●○○○○ | Intelligence | ●○○○○ |
+| Dexterity | ●○○○○ | Manipulation | ●○○○○ | Wits | ●○○○○ |
+| Stamina | ●○○○○ | Composure | ●○○○○ | Resolve | ●○○○○ |
+|&nbsp;|&nbsp;|**Skills**|&nbsp;|&nbsp;|&nbsp;|
+| Athletics | ●○○○○ | Animal Ken | ●○○○○ | Academics | ●○○○○ |
+| Brawl | ●○○○○ | Etiquette | ●○○○○ | Awareness | ●○○○○ |
+| Craft | ●○○○○ | Insight | ●○○○○ | Finance | ●○○○○ |
+| Drive | ●○○○○ | Intimidation | ●○○○○ | Investigation | ●○○○○ |
+| Firearms | ●○○○○ | Leadership | ●○○○○ | Medicine | ●○○○○ |
+| Larceny | ●○○○○ | Performance | ●○○○○ | Occult | ●○○○○ |
+| Melee | ●○○○○ | Persuasion | ●○○○○ | Politics | ●○○○○ |
+| Stealth | ●○○○○ | Streetwise | ●○○○○ | Science | ●○○○○ |
+| Survival | ●○○○○ | Subterfuge | ●○○○○ | Technology | ●○○○○ |
 
 ### Disciplines
 
@@ -54,13 +63,24 @@ Description
 
 ### Advantages and Flaws
 
-### Attributes
+### Attributes and Skills
 
-**Four**, three, three, three
-
-### Skills
-
-**Four**, three, three, three
+|&nbsp;|&nbsp;|**Attributes**|&nbsp;|&nbsp;|&nbsp;|
+|:-|:-|:-:|:-:|-:|-:|
+|Physical|&nbsp;|Social|&nbsp;|Mental|&nbsp;|
+| Strength | ●○○○○ | Charisma | ●○○○○ | Intelligence | ●○○○○ |
+| Dexterity | ●○○○○ | Manipulation | ●○○○○ | Wits | ●○○○○ |
+| Stamina | ●○○○○ | Composure | ●○○○○ | Resolve | ●○○○○ |
+|&nbsp;|&nbsp;|**Skills**|&nbsp;|&nbsp;|&nbsp;|
+| Athletics | ●○○○○ | Animal Ken | ●○○○○ | Academics | ●○○○○ |
+| Brawl | ●○○○○ | Etiquette | ●○○○○ | Awareness | ●○○○○ |
+| Craft | ●○○○○ | Insight | ●○○○○ | Finance | ●○○○○ |
+| Drive | ●○○○○ | Intimidation | ●○○○○ | Investigation | ●○○○○ |
+| Firearms | ●○○○○ | Leadership | ●○○○○ | Medicine | ●○○○○ |
+| Larceny | ●○○○○ | Performance | ●○○○○ | Occult | ●○○○○ |
+| Melee | ●○○○○ | Persuasion | ●○○○○ | Politics | ●○○○○ |
+| Stealth | ●○○○○ | Streetwise | ●○○○○ | Science | ●○○○○ |
+| Survival | ●○○○○ | Subterfuge | ●○○○○ | Technology | ●○○○○ |
 
 ### Disciplines
 
@@ -73,19 +93,28 @@ Description
 [[go up]](#player-characters)
 ### Name - Clan ????? (Caitiff) - 13th Generation
 
-Description
+Occult Shapeshifter
 
 ### Touchstones
 
 ### Advantages and Flaws
 
-### Attributes
-
-**Four**, three, three, three
-
-### Skills
-
-**Four**, three, three, three
+|&nbsp;|&nbsp;|**Attributes**|&nbsp;|&nbsp;|&nbsp;|
+|:-|:-|:-:|:-:|-:|-:|
+|Physical|&nbsp;|Social|&nbsp;|Mental|&nbsp;|
+| Strength | ●○○○○ | Charisma | ●○○○○ | Intelligence | ●○○○○ |
+| Dexterity | ●○○○○ | Manipulation | ●○○○○ | Wits | ●○○○○ |
+| Stamina | ●○○○○ | Composure | ●○○○○ | Resolve | ●○○○○ |
+|&nbsp;|&nbsp;|**Skills**|&nbsp;|&nbsp;|&nbsp;|
+| Athletics | ●○○○○ | Animal Ken | ●○○○○ | Academics | ●○○○○ |
+| Brawl | ●○○○○ | Etiquette | ●○○○○ | Awareness | ●○○○○ |
+| Craft | ●○○○○ | Insight | ●○○○○ | Finance | ●○○○○ |
+| Drive | ●○○○○ | Intimidation | ●○○○○ | Investigation | ●○○○○ |
+| Firearms | ●○○○○ | Leadership | ●○○○○ | Medicine | ●○○○○ |
+| Larceny | ●○○○○ | Performance | ●○○○○ | Occult | ●○○○○ |
+| Melee | ●○○○○ | Persuasion | ●○○○○ | Politics | ●○○○○ |
+| Stealth | ●○○○○ | Streetwise | ●○○○○ | Science | ●○○○○ |
+| Survival | ●○○○○ | Subterfuge | ●○○○○ | Technology | ●○○○○ |
 
 ### Disciplines
 
@@ -104,13 +133,24 @@ Description
 
 ### Advantages and Flaws
 
-### Attributes
+### Attributes and Skills
 
-**Four**, three, three, three
-
-### Skills
-
-**Four**, three, three, three
+|&nbsp;|&nbsp;|**Attributes**|&nbsp;|&nbsp;|&nbsp;|
+|:-|:-|:-:|:-:|-:|-:|
+|Physical|&nbsp;|Social|&nbsp;|Mental|&nbsp;|
+| Strength | ●○○○○ | Charisma | ●○○○○ | Intelligence | ●○○○○ |
+| Dexterity | ●○○○○ | Manipulation | ●○○○○ | Wits | ●○○○○ |
+| Stamina | ●○○○○ | Composure | ●○○○○ | Resolve | ●○○○○ |
+|&nbsp;|&nbsp;|**Skills**|&nbsp;|&nbsp;|&nbsp;|
+| Athletics | ●○○○○ | Animal Ken | ●○○○○ | Academics | ●○○○○ |
+| Brawl | ●○○○○ | Etiquette | ●○○○○ | Awareness | ●○○○○ |
+| Craft | ●○○○○ | Insight | ●○○○○ | Finance | ●○○○○ |
+| Drive | ●○○○○ | Intimidation | ●○○○○ | Investigation | ●○○○○ |
+| Firearms | ●○○○○ | Leadership | ●○○○○ | Medicine | ●○○○○ |
+| Larceny | ●○○○○ | Performance | ●○○○○ | Occult | ●○○○○ |
+| Melee | ●○○○○ | Persuasion | ●○○○○ | Politics | ●○○○○ |
+| Stealth | ●○○○○ | Streetwise | ●○○○○ | Science | ●○○○○ |
+| Survival | ●○○○○ | Subterfuge | ●○○○○ | Technology | ●○○○○ |
 
 ### Disciplines
 
@@ -129,13 +169,24 @@ Description
 
 ### Advantages and Flaws
 
-### Attributes
+### Attributes and Skills
 
-**Four**, three, three, three
-
-### Skills
-
-**Four**, three, three, three
+|&nbsp;|&nbsp;|**Attributes**|&nbsp;|&nbsp;|&nbsp;|
+|:-|:-|:-:|:-:|-:|-:|
+|Physical|&nbsp;|Social|&nbsp;|Mental|&nbsp;|
+| Strength | ●○○○○ | Charisma | ●○○○○ | Intelligence | ●○○○○ |
+| Dexterity | ●○○○○ | Manipulation | ●○○○○ | Wits | ●○○○○ |
+| Stamina | ●○○○○ | Composure | ●○○○○ | Resolve | ●○○○○ |
+|&nbsp;|&nbsp;|**Skills**|&nbsp;|&nbsp;|&nbsp;|
+| Athletics | ●○○○○ | Animal Ken | ●○○○○ | Academics | ●○○○○ |
+| Brawl | ●○○○○ | Etiquette | ●○○○○ | Awareness | ●○○○○ |
+| Craft | ●○○○○ | Insight | ●○○○○ | Finance | ●○○○○ |
+| Drive | ●○○○○ | Intimidation | ●○○○○ | Investigation | ●○○○○ |
+| Firearms | ●○○○○ | Leadership | ●○○○○ | Medicine | ●○○○○ |
+| Larceny | ●○○○○ | Performance | ●○○○○ | Occult | ●○○○○ |
+| Melee | ●○○○○ | Persuasion | ●○○○○ | Politics | ●○○○○ |
+| Stealth | ●○○○○ | Streetwise | ●○○○○ | Science | ●○○○○ |
+| Survival | ●○○○○ | Subterfuge | ●○○○○ | Technology | ●○○○○ |
 
 ### Disciplines
 
@@ -154,13 +205,24 @@ Description
 
 ### Advantages and Flaws
 
-### Attributes
+### Attributes and Skills
 
-**Four**, three, three, three
-
-### Skills
-
-**Four**, three, three, three
+|&nbsp;|&nbsp;|**Attributes**|&nbsp;|&nbsp;|&nbsp;|
+|:-|:-|:-:|:-:|-:|-:|
+|Physical|&nbsp;|Social|&nbsp;|Mental|&nbsp;|
+| Strength | ●○○○○ | Charisma | ●○○○○ | Intelligence | ●○○○○ |
+| Dexterity | ●○○○○ | Manipulation | ●○○○○ | Wits | ●○○○○ |
+| Stamina | ●○○○○ | Composure | ●○○○○ | Resolve | ●○○○○ |
+|&nbsp;|&nbsp;|**Skills**|&nbsp;|&nbsp;|&nbsp;|
+| Athletics | ●○○○○ | Animal Ken | ●○○○○ | Academics | ●○○○○ |
+| Brawl | ●○○○○ | Etiquette | ●○○○○ | Awareness | ●○○○○ |
+| Craft | ●○○○○ | Insight | ●○○○○ | Finance | ●○○○○ |
+| Drive | ●○○○○ | Intimidation | ●○○○○ | Investigation | ●○○○○ |
+| Firearms | ●○○○○ | Leadership | ●○○○○ | Medicine | ●○○○○ |
+| Larceny | ●○○○○ | Performance | ●○○○○ | Occult | ●○○○○ |
+| Melee | ●○○○○ | Persuasion | ●○○○○ | Politics | ●○○○○ |
+| Stealth | ●○○○○ | Streetwise | ●○○○○ | Science | ●○○○○ |
+| Survival | ●○○○○ | Subterfuge | ●○○○○ | Technology | ●○○○○ |
 
 ### Disciplines
 
