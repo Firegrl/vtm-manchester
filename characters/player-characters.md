@@ -1,6 +1,6 @@
 # Player Characters
 
-- [Ashleigh](#ashleigh) - Detective Seargent Laura Whitworth / Grace du Nuit - Clan Toreador
+- [Ashleigh](#ashleigh) - Laura Whitworth / Grace du Nuit - Clan Toreador
 - [Nadia](#nadia) Name - Clan Ventrue
 - [Fern](#fern) - Name - Clan ???? (Caitiff)
 - [Aimee](#aimee) - Clan Malkavian
@@ -8,11 +8,11 @@
 - [Josh](#josh) - Thin Blood Vampire
 
 ## Ashleigh 
-[[go up]](#contents)
+[[go up]](#player-characters)
 
-### Detective Seargent Laura Whitworth / Grace du Nuit - Clan Toreador
+### Laura Whitworth / Grace du Nuit - Clan Toreador
 
-Laura was a dedicated police woman, who got results and prioritised public safety, however she was frequently passed over for promotion by her Male colleagues.
+Laura was a dedicated police woman and former Detective Seargent, who got results and prioritised public safety, however she was frequently passed over for promotion by her Male colleagues.
 She began to take out her frustrations through art, specifically painting.
 She was invited to a small gallery, under the stage name Grace du Nuit. 
 This lead to a powerful Toreador named Christina Van de Meer taking interest in Laura's emotional expression through her art.
@@ -44,7 +44,7 @@ Laura made money from the exhibition and decided to leave the police force, and 
 **○○○○○ Presence**
 
 ## Nadia 
-[[go up]](#contents)
+[[go up]](#player-characters)
 
 ### Name - Clan Ventrue 10th Generation
 
@@ -70,7 +70,7 @@ Description
 ●○○○○ Potence
 
 ## Fern 
-[[go up]](#contents)
+[[go up]](#player-characters)
 ### Name - Clan ????? (Caitiff) - 13th Generation
 
 Description
@@ -95,7 +95,7 @@ Description
 ●○○○○ Potence
 
 ## Aimee 
-[[go up]](#contents)
+[[go up]](#player-characters)
 ### Name - Clan Malkavian  - 12th Generation
 
 Description
@@ -120,7 +120,7 @@ Description
 ●○○○○ Potence
 
 ## Kate
-[[go up]](#contents)
+[[go up]](#player-characters)
 ### Name - Clan Gangrel - 13th Generation
 
 Description
@@ -145,7 +145,7 @@ Description
 ●○○○○ Potence
 
 ## Josh 
-[[go up]](#contents)
+[[go up]](#player-characters)
 ### Name - Clan Thin Blood - 15th Generation
 
 Description
