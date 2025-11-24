@@ -10,7 +10,7 @@
 ## Ashleigh 
 [[go up]](#player-characters)
 
-### Laura Whitworth / Grace du Nuit - Clan Toreador
+### Laura Whitworth / Grace du Nuit - Clan Toreador - 13th Generation
 
 Laura was a dedicated police woman and former Detective Seargent, who got results and prioritised public safety, however she was frequently passed over for promotion by her Male colleagues.
 She began to take out her frustrations through art, specifically painting.
