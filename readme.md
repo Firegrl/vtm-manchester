@@ -4,6 +4,12 @@ This is to track my Vampire game and I guess to get better at writing documentat
 
 ## Characters
 
-- [Character Overview](characters/player-characters.md)
+- [Player Characters](characters/player-characters.md)
   - [Laura Whitworth / Grace du Nuit](characters/backgrounds/laura-whitworth.md)
+[Vampires](characters/vampires.md)
+[Humans](characters/humans.md)
 
+
+## Locations
+
+[Locations](locations/locations.md)

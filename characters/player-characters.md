@@ -62,7 +62,7 @@ Baron Anton Liviu is one of the oldest Vampires of the region, and former Lord o
 
 He has very.... traditional views.
 
-His main estate is in Altringham, and boasts a garden maze and the North's most complex fountain display crowned by a modest manor with 8 bedrooms, 5 bathrooms, sever access, a secret entrance and a wine cellar dutifully stocked with fine blood. He keeps a small herd of Ghouls as staff. Additionally, he maintains a small but well appointed flat in Elizabeth Tower south of Deansgate.
+His main estate is in Altrincham, and boasts a garden maze and the North's most complex fountain display crowned by a modest manor with 8 bedrooms, 5 bathrooms, sever access, a secret entrance and a wine cellar dutifully stocked with fine blood. He keeps a small herd of Ghouls as staff. Additionally, he maintains a small but well appointed flat in Elizabeth Tower south of Deansgate.
 
 In these modern nights, he is without much of his former slendour. Even his title of 'Baron' is somewhat superficial, as the Camarilla at large do not recognise his Barony over any area of the City.
 
