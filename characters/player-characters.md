@@ -1,7 +1,7 @@
 # Player Characters
 
 - [Ashleigh](#ashleigh) - Laura Whitworth / Grace du Nuit - Clan Toreador
-- [Nadia](#nadia) Name - Clan Ventrue
+- [Nadia](#nadia) Baron Anton Liviu - Clan Ventrue
 - [Fern](#fern) - Name - Clan ???? (Caitiff)
 - [Aimee](#aimee) - Clan Malkavian
 - [Kate](#kate) - Clan Gangrel
