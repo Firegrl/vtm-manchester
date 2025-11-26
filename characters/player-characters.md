@@ -32,19 +32,19 @@ Laura made money from the exhibition and decided to leave the police force, and 
 | &nbsp;      | &nbsp;      | **Attributes** | &nbsp;      | &nbsp;       | &nbsp;      |
 |:------------|:------------|:--------------:|:-----------:|-------------:|------------:|
 | Physical    | &nbsp;      | Social         | &nbsp;      | Mental       | &nbsp;      |
-| Strength    | ●○○○○       | Charisma       | ●○○○○       | Intelligence | ●○○○○       |
-| Dexterity   | ●○○○○       | Manipulation   | ●○○○○       | Wits         | ●○○○○       |
-| Stamina     | ●○○○○       | Composure      | ●○○○○       | Resolve      | ●○○○○       |
+| Strength    | ●●○○○       | Charisma       | ●●○○○       | Intelligence | ●●○○○       |
+| Dexterity   | ●●●●○       | Manipulation   | ●○○○○       | Wits         | ●●●○○       |
+| Stamina     | ●●●○○       | Composure      | ●●○○○       | Resolve      | ●●●○○       |
 | &nbsp;      | &nbsp;      | **Skills**     | &nbsp;      | &nbsp;       | &nbsp;      |
-| Athletics   | ●○○○○       | Animal Ken     | ●○○○○       | Academics    | ●○○○○       |
-| Brawl       | ●○○○○       | Etiquette      | ●○○○○       | Awareness    | ●○○○○       |
-| Craft       | ●○○○○       | Insight        | ●○○○○       | Finance      | ●○○○○       |
-| Drive       | ●○○○○       | Intimidation   | ●○○○○       | Investigation| ●○○○○       |
-| Firearms    | ●○○○○       | Leadership     | ●○○○○       | Medicine     | ●○○○○       |
-| Larceny     | ●○○○○       | Performance    | ●○○○○       | Occult       | ●○○○○       |
-| Melee       | ●○○○○       | Persuasion     | ●○○○○       | Politics     | ●○○○○       |
-| Stealth     | ●○○○○       | Streetwise     | ●○○○○       | Science      | ●○○○○       |
-| Survival    | ●○○○○       | Subterfuge     | ●○○○○       | Technology   | ●○○○○       |
+| Athletics   | ●●●○○       | Animal Ken     | ○○○○○       | Academics    | ○○○○○       |
+| Brawl       | ●○○○○       | Etiquette      | ○○○○○       | Awareness    | ○○○○○       |
+| Craft (Painting)       | ●●●○○       | Insight        | ●●○○○       | Finance      | ○○○○○       |
+| Drive       | ●○○○○       | Intimidation   | ●●○○○       | Investigation (CSI)| ●●●●○       |
+| Firearms    | ○○○○○       | Leadership     | ○○○○○       | Medicine     | ○○○○○       |
+| Larceny     | ●●○○○       | Performance    | ○○○○○       | Occult       | ○○○○○       |
+| Melee       | ●●●○○       | Persuasion     | ○○○○○       | Politics     | ○○○○○       |
+| Stealth     | ○○○○○       | Streetwise (Art Scene)     | ●●●○○       | Science      | ○○○○○       |
+| Survival    | ○○○○○       | Subterfuge     | ○○○○○       | Technology   | ●○○○○       |
 
 ### Disciplines
 
