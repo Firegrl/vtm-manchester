@@ -140,37 +140,44 @@ Occult Shapeshifter
 [[go up]](#player-characters)
 ### Name - Clan Malkavian  - 12th Generation
 
-Description
+Dr. Imogen Voss makes the most of the Malkavian curse — she is an exquisite engine for uncanny insight. Within any coterie, her role is clear: she is the abstract thinker, the nonlinear logician, the one who follows the thread others overlook. She sees what others do not, and attempts what no one else would dare consider. Whether this brilliance comes from her formidable intellect or the whispering architecture of her Madness Network is a matter of interpretation—hers shifts nightly.
 
 ### Touchstones
 
 ### Advantages and Flaws
+
+|**Advantage**|&nbsp;|**Flaw**|&nbsp;|
+|:------------|:----:|--------|:----:|
+|Linguistics|●○○○○ |Masquerade Breacher|●○○○○|
+|Haven|●●○○○|Prey Exclusion ()|●○○○○ |
+|Retainer (Loyal mortal servant) |●●○○○|Folkloric Bane ()|●○○○○ |
+|Contacts (Loyal mortal servant) |●●○○○|Living in the Past ()|●○○○○ |
+
 
 ### Attributes and Skills
 
 | &nbsp;      | &nbsp;      | **Attributes** | &nbsp;      | &nbsp;       | &nbsp;      |
 |:------------|:------------|:--------------:|:-----------:|-------------:|------------:|
 | Physical    | &nbsp;      | Social         | &nbsp;      | Mental       | &nbsp;      |
-| Strength    | ●○○○○       | Charisma       | ●○○○○       | Intelligence | ●○○○○       |
-| Dexterity   | ●○○○○       | Manipulation   | ●○○○○       | Wits         | ●○○○○       |
-| Stamina     | ●○○○○       | Composure      | ●○○○○       | Resolve      | ●○○○○       |
+| Strength    | ●●○○○       | Charisma       | ●●●○○       | Intelligence | ●●●○○       |
+| Dexterity   | ●●○○○       | Manipulation   | ●●●○○       | Wits         | ●●●●○       |
+| Stamina     | ●●○○○       | Composure      | ●○○○○       | Resolve      | ●●○○○       |
 | &nbsp;      | &nbsp;      | **Skills**     | &nbsp;      | &nbsp;       | &nbsp;      |
-| Athletics   | ○○○○○       | Animal Ken     | ○○○○○       | Academics    | ○○○○○       |
-| Brawl       | ○○○○○       | Etiquette      | ○○○○○       | Awareness    | ○○○○○       |
-| Craft       | ○○○○○       | Insight        | ○○○○○       | Finance      | ○○○○○       |
+| Athletics   | ●○○○○       | Animal Ken     | ○○○○○       | Academics    | ●●○○○       |
+| Brawl       | ○○○○○       | Etiquette      | ○○○○○       | Awareness    | ●●●○○       |
+| Craft       | ●○○○○       | Insight        | ●●●●○       | Finance      | ●○○○○       |
 | Drive       | ○○○○○       | Intimidation   | ○○○○○       | Investigation| ○○○○○       |
-| Firearms    | ○○○○○       | Leadership     | ○○○○○       | Medicine     | ○○○○○       |
+| Firearms    | ○○○○○       | Leadership     | ○○○○○       | Medicine     | ●○○○○       |
 | Larceny     | ○○○○○       | Performance    | ○○○○○       | Occult       | ○○○○○       |
-| Melee       | ○○○○○       | Persuasion     | ○○○○○       | Politics     | ○○○○○       |
-| Stealth     | ○○○○○       | Streetwise     | ○○○○○       | Science      | ○○○○○       |
-| Survival    | ○○○○○       | Subterfuge     | ○○○○○       | Technology   | ○○○○○       |
+| Melee       | ●●○○○       | Persuasion     | ○○○○○       | Politics     | ○○○○○       |
+| Stealth     | ○○○○○       | Streetwise     | ○○○○○       | Science      | ●●●○○       |
+| Survival    | ○○○○○       | Subterfuge     | ○○○○○       | Technology   | ●●●○○       |
 
 ### Disciplines
 
-**●●●○○ Celerity**
-**●○○○○ Auspex**
-**○○○○○ Presence**
-●○○○○ Potence
+**●●●○○ Auspex**
+**●○○○○ Dominate**
+**○○○○○ Obfuscate**
 
 ## Kate
 [[go up]](#player-characters)
