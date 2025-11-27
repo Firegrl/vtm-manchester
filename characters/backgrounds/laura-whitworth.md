@@ -4,9 +4,15 @@
   - [Career](#career)
   - [Art](#artistic-side)
   - [Embrace](#embrace)
+- [Touchstones](#touchstones)
+  - [Mr. and Mrs. Whitworth](#mr--ms-whitworth)
+  - [Sophie, Abigail and Kate](#sophie-abigail--kate)
 - [Relationships](#relationships)
   - [Christine Van der Meer](#christine-van-der-meer) - Sire
   - [Stephen](#stephen) - Ex Husband
+  - [DCI Raymond Holt](#dci-raymond-holt) - Retired detective and former mentor
+  - [DI Diana Christiansen](#di-diana-christiansen) - Professional rival
+  - [Unknown Serial Killer](#unknown-serial-killer)
 - [Relationship Map](#relationship-map)
 
 
@@ -39,10 +45,21 @@ Upon awakening many hours later, Laura found herself sick, pained and averse to 
 
 Laura is now a vampire of the Toreador clan, and has had to block the windows of her home to prevent sunlight from entering. She misses her view. She has found the change from human to vampire quite difficult, but equally she is fascinated and not a little excited by her suddenly now-different future. At one point Christine and other Toreador clan members had to physically restrain her from finding and killing Stephen. Christine used this as a good opportunity to explain The Masquerade to Laura, and the consequences of breaking it. The Toreadors universally refer to her by her artist name, Grace.
 
+# Touchstones
+
+## Mr & Ms. Whitworth
+### Laura's parents
+
+Though separated, both still live in South Manchester, Laura’s parents are becoming increasingly concerned for her welfare and have recently spoken to each other for the first time in years as a result. Neither wants to lose their remaining daughter.
+
+## Sophie, Abigail & Kate
+### Laura’s “girl gang”
+The four have been friends for many years, with Sophie and Kate having been in the police themselves before leaving for a less shit working environment. They, too, haven’t heard from her in months and have worried about her. They know about Grace du Nuit and have been to a number of her exhibitions to support their friend.
+
 # Relationships
 
 ## Christine van der Meer
-### The Toreador Primogen
+### Toreador Primogen, Art Collector and Mentor
 
 Christine van der Meer was born in Amsterdam in 1605, into a family made wealthy by Dutch colonialism. She was Embraced into the Toreador clan at age 42 and thus has an eternally middle-aged appearance. Growing up, she spent time with Rembrandt and many other artists, and over the last 400 years has known and worked with many, many of the great European artists, including Monet, Matisse, van Gogh, Dali and scores of others. Sometimes when a promising young artist disappeared from the world, they had in fact been Embraced into the clan. Christine finds beauty in many forms. In battlefield screams, in blood in the moonlight, in the scant remains of fallen civilisations (particularly Sumer), and in the mind of an artistic former detective…
 
@@ -51,15 +68,17 @@ Christine van der Meer was born in Amsterdam in 1605, into a family made wealthy
 
 Stephen Hughes is an arrogant, swaggering techbro who works at MediaCity. He was mentally and physically abusive towards Laura, with his actions escalating over the course of many years. The phrase “he’s not the man I married” is a cliché, but this accurately reflects Laura’s feelings about the relationship. Over the years, Stephen seemed to become envious of Laura’s relative success and ignored the struggles she endured to attain it and despite him earning far more than Laura. He became insistent that she give up her job and become a baby factory. On their final night together, his abuse became sexual when he drunkenly assaulted Laura upon her return from work and tried to rape her. This led to her throwing him off her and, at long last, fighting back. The ensuing fracas ended with Stephen tumbling down the stairs. Laura called an ambulance but did not accompany him to the hospital, telling the medics she would follow in her car. As the ambulance drove away, Laura packed her bag and called an old friend, asking to stay with them for a few nights. Stephen & Laura have not spoken to each other since that night. The divorce papers Laura filed were accepted and signed by Stephen without quibble. He is now officially her ex-husband. Stephen also declined to press charges, aware that his own misdeeds would surely come to light during any investigation, or even a cursory glance at Laura’s many injuries. 
 
-# Relationship Map
+## DCI Raymond Holt
+### Retired Detecive and Former Mentor
 
-### DI Diana Christiansen
-Tory Angela, but worse. The two always disliked each other. If Laura found herself forced to feed on Diana, she wouldn’t lose any sleep over it.
-### DCI Raymond Holt (ret.) 
 Very keen on facts and logic, not very keen on emotions. One of only 2 or 3 decent people at GMP, was always relatively supportive and helpful to her in the early years in the job. He retired a few years ago and now spends his time at home with his academic husband and does a lot of gardening. Until a few months ago, Laura would visit them regularly, abiding by the pairs’ “No shop talk” rule and instead discussing music, art, flowers and food. After his retirement, Laura revealed her artistic side to Raymond, and he agreed to keep her secret.
-### Mr & Ms. Whitworth
-Though separated, both still live in South Manchester, Laura’s parents are becoming increasingly concerned for her welfare and have recently spoken to each other for the first time in years as a result. Neither wants to lose their remaining daughter.
-### Sophie, Abigail & Kate
-Laura’s “girl gang”. The four have been friends for many years, with Sophie and Kate having been in the police themselves before leaving for a less shit working environment. They, too, haven’t heard from her in months and have worried about her. They know about Grace du Nuit and have been to a number of her exhibitions to support their friend.
-### The Vampire what killed Karen Genovese
-Now that she knows that vampires exist, the murder weapon and motive in the Genovese case seems obvious to Laura. While in many ways she has left her police life behind, this case still lives in her mind rent-free and she would be very interested to find and speak to the responsible Kindred. This could be seen as an overarching goal for her. 
+
+## DI Diana Christiansen
+### Professional Rival
+Tory Angela, but worse. The two always disliked each other. If Laura found herself forced to feed on Diana, she wouldn’t lose any sleep over it.
+
+## Unknown Serial Killer
+### Murderer of Karen Genovese
+Now that she knows that Vampires exist, the murder weapon and motive in the Genovese case seems obvious to Laura. While in many ways she has left her police life behind, this case still lives in her mind rent-free and she would be very interested to find and speak to the responsible Kindred. This could be seen as an overarching goal for her. 
+
+# Relationship Map

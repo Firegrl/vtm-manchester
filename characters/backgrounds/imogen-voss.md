@@ -4,11 +4,11 @@
   - [Life Before Undeath](#life-before-undeath)
   - [Modern Nights](#modern-nights)
   - [Appearence](#appearance)
-  - [Touchstones](#touchstones)
   - [Haven](#haven)
-- [Relationships](#relationships)
+- [Touchstones](#touchstones)
   - [Eddie Winterborn](#eddie-winterborn)
   - [Selene Crowther](#selene-crowther)
+- [Relationships](#relationships)
 - [Relationship Map](#relationship-map)
 
 
@@ -50,7 +50,6 @@ The pencil skirt, the nylon stockings, the sensible heels: none of it is ideal f
 
 Her hair is always swept into a flawlessly precise bun; her lips wear a shade of red that seems a little too close to fresh vitae; and her horn-rimmed glasses rest on her nose purely for effect—her undead eyes see with perfect clarity.
 
-## Touchstones
 
 ## Haven
 
@@ -60,9 +59,9 @@ Her favorite is the installation titled **“The Bureau for the Study of Surreal
 
 When the museum is closed to the public and the halls fall quiet, she can often be found conversing with **Stan**, the twelve-foot-tall T. rex skeleton that dominates the dinosaur gallery. Thus far, Stan has not deigned to respond—but Imogen is patient. Bones remember more than they let on, and she fully expects that one night, he will answer.
 
-# Relationships
+# Touchstones
 
-Despite spending far less time tutoring than she did in her early nights, Imogen still delights in offering extra instruction to mortals who show a sincere enthusiasm for obscure knowledge. Over the decades this habit has produced a long procession of protégés, assistants, and pupils—many of whom still feel a lingering sense of loyalty to the strange, brilliant woman who reshaped their minds.
+Despite spending far less time tutoring than she did in her early nights, Imogen still delights in offering extra instruction to mortals who show a sincere enthusiasm for obscure knowledge. Over the decades this habit has produced a long procession of protégés, assistants, and pupils — many of whom still feel a lingering sense of loyalty to the strange, brilliant woman who reshaped their minds.
 
 ## Eddie Winterborn
 ### Research Assistant
@@ -73,5 +72,7 @@ Most have drifted on to lives of their own, but Edeline “Eddie” Winterborn h
 ### Antique Bookseller
 
 Imogen’s other notable contact is Selene Crowther, an antiquarian bookseller with an uncanny knack for acquiring the sorts of texts and artifacts that should not be so readily available. Selene’s network is deep, her favours innumerable, and her discretion impeccable. Unlike Eddie, Selene has no idea that Imogen is Kindred—at least, not in any official sense. But she has read enough forbidden lore, and seen enough curious things, to suspect that Dr. Voss is not merely an eccentric academic who keeps strange hours.
+
+# Relationships
 
 # Relationship Map
