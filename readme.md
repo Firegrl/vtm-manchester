@@ -6,6 +6,7 @@ This is to track my Vampire game and I guess to get better at writing documentat
 
 - [Player Characters](characters/player-characters.md)
   - [Laura Whitworth / Grace du Nuit](characters/backgrounds/laura-whitworth.md)
+  - [Dr. Imogen Voss](characters/backgrounds/imogen-voss.md)
 - [Vampires](characters/vampires.md)
 - [Humans](characters/humans.md)
 
